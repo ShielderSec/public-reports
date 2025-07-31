@@ -15,8 +15,8 @@ The primary purpose of this repository is to provide access to detailed security
 | [OSTIF] Bref | [\[OSTIF\] Bref - Report v1.2.pdf](./2024/[OSTIF]%20Bref%20-%20Report%20v1.2.pdf) | https://shielder.com/blog/2024/03/bref-security-audit/ | March 29, 2024 |
 | [OSTIF] Boost | [\[OSTIF\] Boost - Report v1.4.pdf](./2024/[OSTIF]%20Boost%20-%20Report%20v1.4.pdf) | https://shielder.com/blog/2024/05/boost-security-audit/ | May 22, 2024 |
 | [OSTIF] Karmada | [\[OSTIF\] Karmada - Report v1.1.pdf](./2025/[OSTIF]%20Karmada%20-%20Report%20v1.1.pdf) | https://shielder.com/blog/2025/01/karmada-security-audit/ | January 10, 2025 |
-| [OSTIF] MaterialX | [\[OSTIF\] MaterialX - Report v1.2.pdf](./2025/[OSTIF]%20MaterialX%20-%20Report%20v1.1.pdf) | https://www.shielder.com/blog/2025/07/openexr-and-materialx-security-audit/ | July 31, 2025 |
-| [OSTIF] OpenEXR | [\[OSTIF\] OpenEXR - Report v1.2.pdf](./2025/[OSTIF]%20OpenEXR%20-%20Report%20v1.1.pdf) | https://www.shielder.com/blog/2025/07/openexr-and-materialx-security-audit/ | July 31, 2025 |
+| [OSTIF] MaterialX | [\[OSTIF\] MaterialX - Report v1.2.pdf](./2025/[OSTIF]%20MaterialX%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2025/07/openexr-and-materialx-security-audit/ | July 31, 2025 |
+| [OSTIF] OpenEXR | [\[OSTIF\] OpenEXR - Report v1.2.pdf](./2025/[OSTIF]%20OpenEXR%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2025/07/openexr-and-materialx-security-audit/ | July 31, 2025 |
 
 ## Licensing
 Unless otherwise specified, the contents of this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE). You are free to share and adapt the materials for any purpose, even commercially, as long as proper attribution is provided and the adapted materials share the same license.
