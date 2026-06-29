@@ -12,6 +12,7 @@ The primary purpose of this repository is to provide access to detailed security
 
 | Project | Link (PDF) | Link (blog post) | Publishing Date |
 | ------- | ---------- | ---------------- | --------------- |
+| [OSTIF] Symfony - YAML | [\[OSTIF\] Symfony YAML - Report v1.2](./2026/%5BOSTIF%5D%20Symfony%20YAML%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/06/symfony-yaml-security-audit/ | June 30, 2026 |
 | [OSTIF] Inspektor Gadget | [\[OSTIF\] Inspektor Gadget - Report v1.2.pdf](./2026/%5BOSTIF%5D%20Inspektor%20Gadget%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/04/inspektor-gadget-security-audit/ | April 30, 2026 |
 | [OSTIF] OpenEXR | [\[OSTIF\] OpenEXR - Report v1.2.pdf](./2025/[OSTIF]%20OpenEXR%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2025/07/openexr-and-materialx-security-audit/ | July 31, 2025 |
 | [OSTIF] MaterialX | [\[OSTIF\] MaterialX - Report v1.2.pdf](./2025/[OSTIF]%20MaterialX%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2025/07/openexr-and-materialx-security-audit/ | July 31, 2025 |
