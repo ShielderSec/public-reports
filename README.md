@@ -12,6 +12,7 @@ The primary purpose of this repository is to provide access to detailed security
 
 | Project | Link (PDF) | Link (blog post) | Publishing Date |
 | ------- | ---------- | ---------------- | --------------- |
+| [OSTIF] Power Grid Model | [\[OSTIF\] Power Grid Model - Report v1.2](./2026/%5BOSTIF%5D%20Power%20Grid%20Model%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/10/power-grid-model-security-audit/ | October 13, 2026 |
 | [OSTIF] louis-rs | [\[OSTIF\] louis-rs - Report v1.2](./2026/%5BOSTIF%5D%20louis-rs%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/09/louis-rs-security-audit/ | September 29, 2026 |
 | [OSTIF] Symfony - YAML | [\[OSTIF\] Symfony YAML - Report v1.2](./2026/%5BOSTIF%5D%20Symfony%20YAML%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/06/symfony-yaml-security-audit/ | June 30, 2026 |
 | [OSTIF] Inspektor Gadget | [\[OSTIF\] Inspektor Gadget - Report v1.2.pdf](./2026/%5BOSTIF%5D%20Inspektor%20Gadget%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/04/inspektor-gadget-security-audit/ | April 30, 2026 |
