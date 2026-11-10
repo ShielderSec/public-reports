@@ -12,7 +12,7 @@ The primary purpose of this repository is to provide access to detailed security
 
 | Project | Link (PDF) | Link (blog post) | Publishing Date |
 | ------- | ---------- | ---------------- | --------------- |
-| [OSTIF] Kubernetes Non-Core | [\[OSTIF\] Kubernetes Non-Core - Report v1.2](./2026/%5BOSTIF%5D%20Kubernetes%20Non-Core%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/10/power-grid-model-security-audit/ | October 13, 2026 |
+| [OSTIF] Kubernetes Non-Core | [\[OSTIF\] Kubernetes Non-Core - Report v1.2](./2026/%5BOSTIF%5D%20Kubernetes%20Non-Core%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/11/kubernetes-non-core-security-audit/ | November 10, 2026 |
 | [OSTIF] Power Grid Model | [\[OSTIF\] Power Grid Model - Report v1.2](./2026/%5BOSTIF%5D%20Power%20Grid%20Model%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/10/power-grid-model-security-audit/ | October 13, 2026 |
 | [OSTIF] louis-rs | [\[OSTIF\] louis-rs - Report v1.2](./2026/%5BOSTIF%5D%20louis-rs%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/09/louis-rs-security-audit/ | September 29, 2026 |
 | [OSTIF] Symfony - YAML | [\[OSTIF\] Symfony YAML - Report v1.2](./2026/%5BOSTIF%5D%20Symfony%20YAML%20-%20Report%20v1.2.pdf) | https://www.shielder.com/blog/2026/06/symfony-yaml-security-audit/ | June 30, 2026 |
